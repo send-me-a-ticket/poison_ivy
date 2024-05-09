@@ -1,6 +1,6 @@
 # Poison Ivy
 
-Poison Ivy is an multi-tool swiss knife tool for System admins.
+Poison Ivy is an multi-tool swiss knife for System admins.
 
 Included Tools -
 
