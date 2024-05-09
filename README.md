@@ -19,3 +19,7 @@ Although you can download each tool individually,
 this script makes it easier to deploy during remote sessions.
 
 Leaves no traces at execution end.
+
+- Written in Batch
+- Packaged in Winrar (SFX - Temp Mode)
+- All credits to original owners of included application.
