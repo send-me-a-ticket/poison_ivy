@@ -1,6 +1,7 @@
 # Poison Ivy
 
 Poison Ivy is an multi-tool swiss knife for System admins.
+[Click Here to Download](https://github.com/send-me-a-ticket/poison_ivy/releases/tag/latest)
 
 Included Tools -
 
